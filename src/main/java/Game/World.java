@@ -2,7 +2,7 @@ package Game;
 
 public class World {
 
-    private Field[][] fields;
+    public Field[][] fields;
 
     /**
      * Létrehozza az adott sor oszlop számú világot.
